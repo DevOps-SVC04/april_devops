@@ -3,4 +3,4 @@
 echo "Enter some runtime variable"
 echo "below is the value that has entered"
 echo "first value is $1"
-echo "first value is $2"
+echo "second value is $2"
