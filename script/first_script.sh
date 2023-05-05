@@ -2,4 +2,5 @@
 #echoing lines
 echo "Enter some runtime variable"
 echo "below is the value that has entered"
-echo "run time value is $1"
+echo "first value is $1"
+echo "first value is $2"
